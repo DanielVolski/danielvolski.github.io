@@ -1,0 +1,23 @@
+p {
+    color: #e8f1f2;
+}
+
+.my-name {
+    color: #e8f1f2;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+}
+
+.left-block {
+    background-color: #3F88C5;
+    width: 20vw;
+}
+
+.right-block {
+    background-color: #13293d;
+    width: 80vw;
+}
